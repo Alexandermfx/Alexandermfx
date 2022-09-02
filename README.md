@@ -1,0 +1,3 @@
+Hi, I'm Alexander M
+student of Information Systems and Management Control
+I'm learning R throught some proyects...
